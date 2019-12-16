@@ -23,6 +23,5 @@ layout: page
 
 <ul>
 	<li><a href="https://www.instagram.com/ollyholly_art/">Olly Holly Art</a></li>
-	<li><a href="https://www.instagram.com/ollyholly_art/">Olly Holly Art</a></li>
 	<li><a href="http://heloholo.com">Personal website</a></li>
 </ul>
